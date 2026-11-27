@@ -1,0 +1,14 @@
+# Secrets and local accounts
+.env
+users.json
+*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated lab files and runtime evidence
+shadow-output/
+logs/*.jsonl
+evidence/filter_validation/**

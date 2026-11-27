@@ -1,0 +1,10 @@
+Project Shadow Route — Detection Time Evaluation
+
+Number of recorded runs: 5
+Mean: 1.046 seconds
+Median: 0.995 seconds
+Sample standard deviation: 0.140 seconds
+Range: 0.895–1.248 seconds
+
+Measurement: attack configuration reload to detector observation; includes route propagation and one-second polling.
+Results are specific to this controlled SEED VM lab and are not a production-network claim.
